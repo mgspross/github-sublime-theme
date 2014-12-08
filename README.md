@@ -1,14 +1,8 @@
-#GitHub Sublime Theme
+#GitHub Sublime Theme ("Classic" Theme)
 
-![GithHub Sublime Theme](https://raw.github.com/AlexanderEkdahl/github-sublime-theme/master/screenshot.png)
+GitHub Sublime theme forked from https://github.com/AlexanderEkdahl/github-sublime-theme. This fork retains the "classic" GitHub color scheme (see screenshot), which I personally find to be easier on the eyes than the current color scheme.
 
-## Installation
-
-### Using [Package Control](https://sublime.wbond.net)
-
-Open `Tools -> Command Palette...`. Search for `Package Control: Install Package` and click enter. Wait for
-the available packages to show up and then search for `GitHub Color theme`. Click enter and the theme should
-be installed.
+![GithHub Sublime Theme](https://raw.github.com/mgspross/github-sublime-theme/master/screenshot.png)
 
 ### Using Git
 
@@ -16,7 +10,7 @@ Locate your Sublime Text 2 `Packages` directory by using the menu item `Preferen
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/AlexanderEkdahl/github-sublime-theme.git
+    git clone https://github.com/mgspross/github-sublime-theme.git
 
 ### Download Manually
 
