@@ -1,4 +1,4 @@
-#GitHub Sublime Theme ("Classic" Theme)
+# GitHub Sublime Theme ("Classic" Theme)
 
 GitHub Sublime theme forked from https://github.com/AlexanderEkdahl/github-sublime-theme. This fork retains the "classic" GitHub color scheme (see screenshot), which I personally find to be easier on the eyes than the current color scheme.
 
